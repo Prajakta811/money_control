@@ -1,0 +1,31 @@
+.item1{
+    border-collapse: collapse;
+    max-width: 1000px;
+    position: relative;
+    display: flex;  
+    background-color: white ;
+    color: black;
+    margin: auto;
+  }
+  .slide{
+    padding-top: 5px;
+    
+  }
+  .next {
+    margin: 2px 15px;
+    cursor: pointer;
+    
+  }
+  .image img{
+    height: 90%;
+    width: 90%;
+  }
+#md-exclusive{
+
+  background-color: red;
+  border: none;
+  border-radius: 2px;
+}
+.list{
+  padding: 20px;
+}
